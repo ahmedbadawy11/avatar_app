@@ -1,0 +1,6 @@
+transformers
+tiktoken
+protobuf
+blobfile
+sentencepiece 
+soundfile
